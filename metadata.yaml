@@ -30,6 +30,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1711
     wikipedia: http://en.wikipedia.org/wiki/Carl_Ewald
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31708#The-Pond
 gutenberg_issued: '2010-03-20'
 gutenberg_type: Text
 identifiers:
